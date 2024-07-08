@@ -1,0 +1,15 @@
+# Autoconf files
+*.a*
+*.cache
+.deps
+aclocal.m4
+compile
+depcomp
+install-sh
+missing
+config.*
+Makefile
+
+# Project files
+out/
+build/
