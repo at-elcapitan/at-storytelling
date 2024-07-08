@@ -1,13 +1,9 @@
 # Autoconf files
-*.a*
 *.cache
 .deps
-aclocal.m4
-compile
-depcomp
-install-sh
-missing
-config.*
+*.log
+*.status
+configure~
 Makefile
 
 # Project files
